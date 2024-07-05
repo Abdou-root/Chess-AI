@@ -53,7 +53,7 @@ The chess engine is developed in Python and uses the Pygame library for renderin
 To run this chess engine on your local machine, ensure you have Python and Pygame installed. Clone the repository, navigate to the project directory, and run the driver script:
 
 ```bash
-git clone [<repository-url>](https://github.com/Abdou-root/Chess-AI)
+git clone https://github.com/Abdou-root/Chess-AI
 cd chess-engine
 python Driver.py
 ```
