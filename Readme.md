@@ -54,7 +54,7 @@ To run this chess engine on your local machine, ensure you have Python and Pygam
 
 ```bash
 git clone https://github.com/Abdou-root/Chess-AI
-cd chess-engine
+cd ChessAI/Chess
 python Driver.py
 ```
 
